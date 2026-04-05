@@ -71,10 +71,10 @@ pm.test("Firstname is correct", function () {
 ### Collection Runner — výsledky
 ![Collection Runner](screenshots/collection_runner.png)
 
-### Ukázka requestu — Create Booking
+### Ukázka requestu — Create Booking - request
 ![Create Booking](screenshots/create_booking.png)
 
-### Ukázka testů — Get Booking by ID
+### Ukázka testů — Create Booking - test
 ![Test Results](screenshots/test_results.png)
 
 ---
